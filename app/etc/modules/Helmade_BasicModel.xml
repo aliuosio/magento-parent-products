@@ -1,0 +1,11 @@
+<config>
+    <modules>
+        <Helmade_BasicModel>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Catalog/>
+            </depends>
+        </Helmade_BasicModel>
+    </modules>
+</config>
